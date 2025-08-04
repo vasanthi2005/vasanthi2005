@@ -23,7 +23,7 @@ Passionate about building intelligent web applications, solving real-world probl
 ---
 
 ## 🧠 LeetCode Stats  
-[![LeetCode](vasanthi_bongarala)
+[![LeetCode](https://leetcard.jacoblin.cool/vasanthi_bongarala?theme=dark&font=baloo&ext=activity)
 
 ---
 
